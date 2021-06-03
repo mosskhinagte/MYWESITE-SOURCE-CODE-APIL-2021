@@ -97,6 +97,13 @@
         display: none;
     }
 
+    .common-h5 {
+        font-size: 20px;
+        line-height: 28px;
+        padding: 0 60px;
+    }
+
+
     .common-h2 {
         font-size: 20px;
         line-height: 28px;
@@ -173,6 +180,7 @@
 
     section#expand {
         margin: 40px 0px;
+       
     }
 
     .expand-img-col {
@@ -296,11 +304,14 @@
         margin-top: 40px;
     }
 
+
+
+
     section#blog {
-        margin: 30px 0px;
+        margin-top: 20px;
     }
 
-    .blog-col {
+   .blog-col {
         float: none;
         width: 100%;
         margin-left: 0%;
@@ -326,6 +337,7 @@
         margin-right: 0%;
         margin-top: 45px;
         text-align: center;
+        color:maroon;
     }
 
     .footer-2-col {
